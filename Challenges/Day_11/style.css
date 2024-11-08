@@ -1,5 +1,5 @@
 body {
-    background: #3bc9ceaf;
+    background: #022c2daf;
 }
 
 .center {
@@ -31,10 +31,10 @@ body {
 @keyframes animate {
     0% {
         box-shadow: 0 0 0 0 #d351a3d3, 
-        0 0 0 0 #cc3394d3;
+        0 0 0 0 #d268abd3;
     }
     40% {
-        box-shadow: 0 0 0 20px #b95a96cc, 
+        box-shadow: 0 0 0 20px #2205ffcc, 
         0 0 0 0 #8d336aaf;
     }
     80% {
